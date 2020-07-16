@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import { Typography, PageHeader, Form, Input, Button, Checkbox } from 'antd';
+import { Typography, Form, Input, Button, Checkbox } from 'antd';
 const { Title } = Typography
 
 function App() {
