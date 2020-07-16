@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import { Typography, PageHeader, Form, Input, Button, Checkbox } from 'antd';
-const { Title} = Typography
+const { Title } = Typography
 
 function App() {
 
