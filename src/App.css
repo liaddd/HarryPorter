@@ -1,5 +1,9 @@
+@import '~antd/dist/antd.css';
+
+
 .App {
   text-align: center;
+  margin: 200px;
 }
 
 .App-logo {
